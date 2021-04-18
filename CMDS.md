@@ -14,5 +14,4 @@ b!nword | posts a random n word
 b!n | calls someone the n word if you @ them
 b!funny | XD
 b!bt | NICHOLAS JOHN STABILE
-b!bruhmoment | bruh
-b!8ball | The bot will answer you!```
+b!bruhmoment | bruh```
