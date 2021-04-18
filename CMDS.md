@@ -3,7 +3,7 @@
 
 Commands:
 
-b!ping | pong!
+```b!ping | pong!
 b!name | gives you a random name
 b!kill | kills someone you @
 b!peter | posts a picture of peter griffin
@@ -15,4 +15,4 @@ b!n | calls someone the n word if you @ them
 b!funny | XD
 b!bt | NICHOLAS JOHN STABILE
 b!bruhmoment | bruh
-b!8ball | The bot will answer you!
+b!8ball | The bot will answer you!```
