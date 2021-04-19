@@ -10,8 +10,8 @@ b!peter | posts a picture of peter griffin
 b!peterSUS | when the family guy is sus
 b!peterSNS | hey lois, im sans!
 b!peter34 | :^)
-b!nword | posts a random n word
+b!8ball | ask the bot something and it will answer you
 b!n | calls someone the n word if you @ them
 b!funny | XD
 b!bt | NICHOLAS JOHN STABILE
-b!bruhmoment | bruh```
+b!bruhmoment | bruh
