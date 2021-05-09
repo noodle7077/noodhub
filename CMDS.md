@@ -14,3 +14,4 @@ b!n | calls someone the n word if you @ them
 b!funny | XD
 b!bt | NICHOLAS JOHN STABILE
 b!bruhmoment | bruh
+b!vir | posts virus picture
